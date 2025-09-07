@@ -32,3 +32,11 @@ Built with **HTML, CSS, and JavaScript**.
    ```bash
    https://github.com/05kleinthenewbie/length-converter.git
 
+##✨ Future Improvements
+
+- Add more units (meters, yards, miles).
+
+- Auto-convert as user types (no button needed).
+
+- Better mobile-friendly UI.
+
